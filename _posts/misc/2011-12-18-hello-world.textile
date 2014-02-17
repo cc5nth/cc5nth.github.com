@@ -1,0 +1,10 @@
+---
+layout: post
+title: Hello World
+---
+
+h1. {{ page.title }}
+
+p(meta). 18 Dec 2011 - H
+
+Hi, try out github pages.

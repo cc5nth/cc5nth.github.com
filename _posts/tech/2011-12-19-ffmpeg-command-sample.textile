@@ -1,0 +1,10 @@
+---
+title: ffmpeg command sample
+layout: post
+---
+
+Convert media using x264 with a proper audio.
+
+<code>
+$ ffmpeg -i input -vcodec libx264 -vpre ultrafast -crf 22 -acodec ac3 -ab 448k -ac 6 -ar 44100 output.mp4
+</code>
