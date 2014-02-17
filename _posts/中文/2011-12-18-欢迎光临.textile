@@ -3,8 +3,9 @@ layout: post
 title: 欢迎光临
 ---
 
-h1. {{ page.title }}
-
 p(meta). 18 Dec 2011 - B
 
+
 大家好。
+
+我是来测试中文内容和中文文件夹的。

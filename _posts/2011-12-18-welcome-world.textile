@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Welcome World
+title: Welcome
 ---
-
-h1. {{ page.title }}
 
 p(meta). 18 Dec 2011 - B
 
