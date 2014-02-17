@@ -5,14 +5,18 @@ layout: master
 
 h2. About me
 
-E-mail: cc.5nth@gmail.com
+E-mail: "cc.5nth@gmail.com":mailto:cc.5nth@gmail.com
 
 Your feedback is highly appreciated.
 
 Thank you.
 
 
-h2. xx
+h2. 我為什麼用繁體
+
+因為LaTeX CJK 的默認安裝包裏，簡體中文的字體太醜了。
+
+嗯，就是這樣。
 
 * I...
 * C...
