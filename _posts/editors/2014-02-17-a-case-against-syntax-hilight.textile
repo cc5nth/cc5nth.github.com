@@ -8,14 +8,14 @@ p(meta). 17 Feb 2014 - sz home
 
 
 最近折腾编辑器的时候，看到一篇文章：
-"A Case Against Syntax Highlighting":
-http://www.linusakesson.net/programming/syntaxhighlighting/
+A Case Against Syntax Highlighting
+"link":http://www.linusakesson.net/programming/syntaxhighlighting/
 
 作者的观点是：
 语法高亮弊多于利。
 
 
-弊端：
+h3. 弊端：
 
 1. 多种颜色会分散读者的注意力。
 （本邮件的附件图片就是一个例子。）
@@ -35,7 +35,7 @@ http://www.linusakesson.net/programming/syntaxhighlighting/
 得看代码非常困难。
 
 
-好处：
+h3. 好处：
 
 1. 如果长篇的代码中，有一大段是被_注释_掉的，在有高亮的情况下，
 就不会在读代码或者 debug 的时候浪费太多时间了。
@@ -47,8 +47,7 @@ http://www.linusakesson.net/programming/syntaxhighlighting/
 事实上几乎没有编辑器做这样的高亮区分。
 
 
-=-----------------=
-这样，文章的作者就作出了总结…… 略。
+h3. 这样，文章的作者就作出了总结…… 略。
 
 
 这跟主流观点很不一样啊，我们以前的认识难道不应该是：
@@ -57,22 +56,22 @@ http://www.linusakesson.net/programming/syntaxhighlighting/
 不过现在我觉得这文章说的还是有点道理的。
 
 
-我还发现一个情况：
+h3. 我还发现一个情况：
+
 Linus Torvalds 说他用的是macroEmacs 的一种定制版，
 （在kernel.org 上可以找到。）不仅没有语法高亮，
 连undo 都没有……（说是macroEmacs 4.0.x 版本才有undo，
 Linus 那个是基于那谁的3.9e 的。）
 
 
-各位同学，你们怎么看语法高亮对 读写代码 的影响的啊？
+h3. 各位同学，你们怎么看语法高亮对 读写代码 的影响的啊？
 
+
+google group link:
+"go":https://groups.google.com/forum/#!topic/pongba/2G8gRTl5a2o/discussion
 
 ---
-"google group link":
-https://groups.google.com/forum/#!topic/pongba/2G8gRTl5a2o/discussion
-
-
-更新：
+h2. 更新：
 
 h3. 快速阅读的概念适用于代码阅读吗？
 
