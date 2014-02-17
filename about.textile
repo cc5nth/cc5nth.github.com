@@ -5,10 +5,14 @@ layout: master
 
 h2. About me
 
-E:wxxx
+E-mail: cc.5nth@gmail.com
 
- 
+Your feedback is highly appreciated.
+
+Thank you.
+
+
 h2. xx
- 
+
 * I...
 * C...
