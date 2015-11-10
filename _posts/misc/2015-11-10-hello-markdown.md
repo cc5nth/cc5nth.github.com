@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Hello World
+title: Hello Markdown
 tags:
 - hello
 - markdown
 - tag
 ---
 
-# hello markdown
-
-Hi, markdown
+Hi, markdown is supported by default config, but tag is not.
